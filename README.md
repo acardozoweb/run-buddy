@@ -1,4 +1,4 @@
-# Run Buddy
+git checkout main# Run Buddy
 
 ## Purpose
 A website that offer training advice.
